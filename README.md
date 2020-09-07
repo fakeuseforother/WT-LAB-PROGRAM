@@ -1,3 +1,3 @@
-# WT-labprogram-1
+# WT-LAB-PROGRAM
 
 
