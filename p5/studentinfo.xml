@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?DOCTYPE studentinformation SYSTEM "stud.dtd"?>
+<?xml-stylesheet type="text/css" href="stud.css"?>
+
+<information>
+
+<vtu>
+<usn> 4vv17is100 </usn>
+<name> kashi </name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> kashi@gmail.com </email>
+</vtu>
+
+<vtu>
+<usn> 4vv17is101 </usn>
+<name> dev </name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> dev@gmail.com </email>
+</vtu>
+
+<vtu>
+<usn> 4vv17is222 </usn>
+<name> jhon </name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> jhon@gmail.com </email>
+</vtu>
+
+</information>
